@@ -3,7 +3,7 @@
   "short_name": "QiFi",
   "theme_color": "#101010",
   "background_color": "#101010",
-  "description": "Pure JS WiFi QR Code Generator",
+  "description": "WiFi no QR",
   "display": "standalone",
   "orientation": "portrait",
   "start_url": "/",
