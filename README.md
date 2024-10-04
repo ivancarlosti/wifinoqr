@@ -13,7 +13,7 @@ Installation
 
 Updating
 ------------
-1. Run command *once* to accept dubious ownership: `git config --global --add safe.directory [/webserver/root/folder/full/path]`
+1. Run *once* to related gits: `git config --global --add safe.directory [/webserver/root/folder/full/path]`
 2. Move your shell to desired root folder: `ls [/webserver/root/folder/full/path]`
 3. Run when desires to pull the updated version of this git: `git pull`
 
