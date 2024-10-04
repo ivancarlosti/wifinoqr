@@ -5,7 +5,7 @@ var CURRENT_CACHES = {
 
 self.addEventListener('install', function(event) {
   var now = Date.now();
-  // Here are all the current files QiFi caches while Service Worker installation.
+  // Here are all the current files WiFi no QR caches while Service Worker installation.
   // Add files as needed and change CACHE_VERSION at the top of the file.
   var urlsToPrefetch = [
   '/',
