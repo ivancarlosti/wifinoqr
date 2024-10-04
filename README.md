@@ -1,4 +1,4 @@
-QiFi
+WiFi no QR
 ========
 
 License
