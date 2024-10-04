@@ -7,20 +7,10 @@ Expat/MIT License. See the `LICENSE` file for details. [Author license](https://
 
 Installation
 ------------
-1. Run a web server
-2. Move your shell to desired root folder: `ls [/webserver/folder/path]`
-3. Run command: `git clone --recursive https://github.com/ivancarlosti/wifinoqr.git .`
-
-Updating
-------------
-1. Run *once* to accept related repos: `git config --global --add safe.directory [/webserver/folder/path]`
-2. Move your shell to desired root folder: `ls [/webserver/folder/path]`
-3. Run when desires to pull the updated version of this git: `git pull`
-
-Configuration
--------------
-Fork this repo to make persistent changes into this project.
+1. Fork this project
+2. Make your changes
+3. Customize `Pages` configuration on your repository settings
 
 Usage
 -----
-Open `index.html` in a browser.
+Open your `Pages` repository URL in a browser.
