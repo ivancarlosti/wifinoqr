@@ -7,8 +7,8 @@ Expat/MIT License. See the `LICENSE` file for details. [Author license](https://
 
 Installation
 ------------
-1. Fork this project
-2. Make your changes
+1. Fork this repository
+2. Make changes
 3. Customize `Pages` configuration on your repository settings
 
 Usage
