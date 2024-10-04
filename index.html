@@ -22,34 +22,9 @@
     </style>
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">QiFi</a>
-        </div>
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
-              <li id="history-drop" class="dropdown">
-                <a href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">History <b class="caret"></b></a>
-                <ul class="dropdown-menu" role="menu" aria-labelledby="history-drop">
-                </ul>
-              </li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
-
     <div class="container">
     <section id="generator">
-    <div class="page-header"><h1 id="title">pure JS WiFi QR Code Generator</h1></div>
+    <div class="page-header"><h1 id="title">WiFi no QR</h1></div>
     <div id="history"></div>
     <form id="form">
         <div class="form-group has-feedback">
@@ -99,18 +74,9 @@
     <div id="qrcode"></div>
     </section>
     <section id="about">
-        <div class="page-header"><h1 class="anchor">About</h1></div>
-        <p>
-        Ever wanted to create a cool QR code for your guests? But never wanted to type in your WiFi credentials into a form that submits them to a remote webserver to render the QR code? <i>QiFi</i> for the rescue! It will render the code in your browser, on your machine, so the WiFi stays as secure as it was before (read the code if you do not trust text on the internet :-))!
-        </p>
-        <p>
-        If you use the Save-button to store a code, this is still secure, as the data is stored in HTML5 localStorage and is never transmitted to the server (in contrast to cookie-based solutions).
-        </p>
-        <p>
-        Don't trust your browser either? Just pipe the string
-        <code>WIFI:S:&lt;SSID&gt;;T:&lt;WPA|WEP|&gt;;P:&lt;password&gt;;;</code>
-        through the QR code generator of your choice after <a href="https://github.com/zxing/zxing/wiki/Barcode-Contents#wi-fi-network-config-android-ios-11">reading the documentation</a>.
-        </p>
+        <div class="page-header"><h1 class="anchor">How-to</h1></div>
+        <p>Fill the form with related WiFi data and press <i>Generate!</i> button. Your prowzer will generate a QR Code on your screen. You can export it as PNG image or print it.</p>
+        <p>If you use the <i>Save!</i> button to store a code, the data is stored in HTML5 localStorage and is never transmitted to the server.</p>
 
     </section>
     </div>
