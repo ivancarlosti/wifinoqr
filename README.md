@@ -3,7 +3,7 @@ WiFi no QR
 
 Status
 -------
-[![Static Site CI](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment)
 
 License
 -------
