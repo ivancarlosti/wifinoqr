@@ -1,6 +1,8 @@
 WiFi no QR
 ========
 
+[![Static Site CI](https://github.com/ivancarlosti/wifinoqr/workflows/Static%20Site%20CI/badge.svg)](https://github.com/ivancarlosti/wifinoqr/actions?query=workflow%3A%22Static+Site+CI%22)
+
 License
 -------
 1. Expat/MIT License. See the `LICENSE` file for details. [Author license](https://github.com/evgeni/qifi/blob/gh-pages/LICENSE) preserved.
