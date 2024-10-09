@@ -1,7 +1,9 @@
 WiFi no QR
 ========
 
-[![Static Site CI](https://github.com/ivancarlosti/wifinoqr/workflows/Static%20Site%20CI/badge.svg)](https://github.com/ivancarlosti/wifinoqr/actions?query=workflow%3A%22Static+Site+CI%22)
+Status
+-------
+[![Static Site CI](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment)
 
 License
 -------
