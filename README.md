@@ -3,6 +3,9 @@ WiFi no QR
 
 Status
 -------
+<a target="_blank" href="https://github.com/ivancarlosti/wifinoqr"><img src="https://img.shields.io/github/stars/ivancarlosti/wifinoqr?style=flat" /></a>
+<a target="_blank" href="https://github.com/ivancarlosti/wifinoqr"><img src="https://img.shields.io/github/last-commit/ivancarlosti/wifinoqr" /></a>
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors)](https://github.com/sponsors/ivancarlosti)
 [![pages-build-deployment](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/wifinoqr/actions/workflows/pages/pages-build-deployment)
 
 License
